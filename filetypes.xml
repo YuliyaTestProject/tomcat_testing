@@ -14,6 +14,7 @@
       <mapping pattern="test" type="JSON" />
       <mapping pattern="InvalidUserCredentials" type="JSON" />
       <mapping pattern="UserCredentials" type="PLAIN_TEXT" />
+      <mapping pattern="test2" type="YAML" />
     </extensionMap>
   </component>
 </application>
