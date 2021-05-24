@@ -12,6 +12,7 @@
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="InvalidUserCredentials" type="JSON" />
+      <mapping pattern="test3" type="JSON" />
       <mapping pattern="test" type="JSON" />
       <mapping pattern="UserCredentials" type="PLAIN_TEXT" />
       <mapping pattern="person2" type="YAML" />
