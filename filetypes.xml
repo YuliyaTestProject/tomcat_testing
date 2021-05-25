@@ -15,6 +15,7 @@
       <mapping pattern="test3" type="JSON" />
       <mapping pattern="test" type="JSON" />
       <mapping pattern="UserCredentials" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="YAML" />
       <mapping pattern="person2" type="YAML" />
       <mapping pattern="test2" type="YAML" />
     </extensionMap>
